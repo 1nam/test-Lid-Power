@@ -1,7 +1,7 @@
 #!/bin/bash
 #1nam testing
 #LAPTOP LID
-#open is yes  closed is no
+#1 is yes 0 is no
 #path to file /proc/acpi/button/lid/LID/
 
 
